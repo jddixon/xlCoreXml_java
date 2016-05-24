@@ -1,5 +1,9 @@
 // ~/dev/java/xlattice_j/corexml/CHANGES
 
+v0.3.13
+    2016-05-24
+        * split from xlattice_java project
+        * add bkp2U, other bash scripts, .dvcz                      SLOC 9519
 v0.3.12
     2015-12-23
         * clean again, fixing version_date
@@ -39,6 +43,7 @@ v0.3.10
         * removed context/, which has been moved to util; made 
             necessary changes
         * switched to using junit-4.1
+
 
 
 
