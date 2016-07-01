@@ -2,7 +2,7 @@
 
 if [ ! -z "${DEV_BASE// }" ]
 then
-  cd $DEV_BASE/java/xlatticeCoreXML_java
+  cd $DEV_BASE/java/xlCoreXml_java
   
   ./build.sh test
   
