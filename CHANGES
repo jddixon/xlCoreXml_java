@@ -1,9 +1,15 @@
 // ~/dev/java/xlattice_j/corexml/CHANGES
 
+v0.3.15
+    2016-09-26
+        * corrected license                                         SLOC 10302
+v0.3.14
+    2016-07-01
+        * add ghpDoc/{css,img}                                      SLOC 10259
 v0.3.13
     2016-05-24
         * split from xlattice_java project
-        * add bkp2U, other bash scripts, .dvcz                      SLOC 9519
+        * add bkp2U, other bash scripts, .dvcz                      SLOC  9519
 v0.3.12
     2015-12-23
         * clean again, fixing version_date
@@ -12,13 +18,13 @@ v0.3.11
         * cleaned, but still uses 'versionDate' 
 v0.3.10
     2015-12-04
-        * minor changes to build.xml                                SLOC 8890
+        * minor changes to build.xml                                SLOC  8890
 0.3.7
-    2013-12-29                                                      SLOC 8829
+    2013-12-29                                                      SLOC  8829
         * regenerated with Java 1.7, ant 1.8.2
         * some tests fail because serialization order unpredictable 
 0.3.6 
-    2006-07-13                                                      SLOC 8829
+    2006-07-13                                                      SLOC  8829
         * corrected Join.setMin/MaxOccur() range checks
         * added AttrBag, making attributes a set, per standard
     2006-07-17i
@@ -43,6 +49,7 @@ v0.3.10
         * removed context/, which has been moved to util; made 
             necessary changes
         * switched to using junit-4.1
+
 
 
 

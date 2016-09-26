@@ -1,0 +1,205 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM2sBgX0ChP2JriXkOxS
+e2FjHYVzBGkNvgf0vIAa7FFYZi2pWmxBAVXgl3tTiB3quqqud/MbKqdejM6gkKBK
+v8f7hlcBQLD6BLIZ/RRfhIElc+WlDVfKSnBTB4va5qTQAgvuq5i8+oMj7G8WEy5d
+7cYucWyUJMtHvT4pCDtBWeeqQ62tByWjv34Ud/+A9Mjf0leiWxM3tiToVsqIKb4s
+zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
+H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
+GQIDAQAB
+-----END RSA PUBLIC KEY-----
+xlCoreXml_java v0.3.15
+2016-09-26 19:35:46
+# BEGIN CONTENT #
+xlCoreXml_java
+ .dvcz
+  builds e94e77777234969dc8b33bd9e7b9b9d96bb82561
+  copyright 95479111af3f692da04cba788ff1ca8768aa0a5a
+  lastBuildList 8ed3b926b22047c8c50957e517882319a9d5398b
+  license 31158001bd41a34771e96dad11a089f4863dea28
+  projCfg 54b7122fccaa348d18ee7c791a7b51cff2a781cc
+  projCfg.local d9f7145d1dcc5ae90ae8efe183562c24f5149d53
+  version 3615f208e1d1d9c1b9cdbbe23050166366e26447
+ .gitignore 73b879f8842850058bca4519cca9b24d39bcf052
+ CHANGES 72244956867a25ccc1c4e2b949153b6295d07821
+ LICENSE-XLATTICE.md 219450641b6ab8413e4a54b3477c3b03a7639742
+ README.md b40b71b927bbccefc44b23f888b93f2c2d0d221a
+ TODO fa54d76788b1cff75f2f87f827c5a9cc52ebbbf6
+ bkp2U 3448dae9fb558156e70a6054e630b7b1a3b35500
+ build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
+ build.xml 1828389d815578a6134606efe9b663e5ff04f8f1
+ classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
+ countem 5d86e1d5d8fa26463f2d07f8ca898a61656eb263
+ ghpDoc
+  css
+   LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
+   ghp.css 1d6ebe8a6cf8f61f4645a793cb087dfae2420f33
+   main.css 018ed80b8a6e6607bc7c08595fa5a7fa56853885
+   normalize.css cba40c7ce3d558d00ff79d7505ac3d348015ec9c
+  img
+   GitHub-Mark-32px.png fabe53eb72f9b6d3d47cd95aff31ffc45c2fdbf8
+   chunk.jpg de2b27e41f1547fc14b13399f5906b4303b49657
+   chunk2.jpg d0593d312dbb8ea837c17b28cb639726e29ea93b
+   cluster-with-clients.jpg c167d04c0c6b5736ef9fe4cdc3fcce1956fdea78
+   simple-cluster.jpg 6b223ddd25937c1ef75ef328f36fc3436f10bd62
+   xl-registration.jpg 15cbf951f9db173a45428b32dcec87aca83bbdf0
+   xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
+  index.md fbeecef516a88f2e2670dff53c2114c5913bfc1b
+ installit 8eb1f79c493b7af21e217100bc77b0863a8f7e2f
+ project.properties da39a3ee5e6b4b0d3255bfef95601890afd80709
+ project.xml f4a881b06492746f9f5305e2b4ec0aa7c9d3ba81
+ src
+  COPYRIGHT.html 27d45e2c445c1cf2bdcba6d28ac475bb30276b47
+  java
+   org
+    w3c
+     dom
+      Attr.java 6b7ea8a7b57f144c1b6d49198e01a151c6190da4
+      CDATASection.java 0e62bf10d4295bf756909e9702e6e177558c6936
+      CharacterData.java 9ffff245aa2a2d57d471421c06593d3658d0e003
+      Comment.java 80fb524aeb1f03050dd0b9c63c1fe0654650b780
+      DOMException.java 281f249efaa617f4d488809eaf8eb1799298f1f0
+      DOMImplementation.java 7e75024026aa013abb3d4981893cb03a4619f599
+      Document.java 9e4074dec8f8a3b8e1e814081b6d213e3192a949
+      DocumentFragment.java 8ce69e103c6260de2a3df276258d569f73e6a466
+      DocumentType.java 0d91f4877db960d34e465385ecc0e3a4dce553df
+      Element.java efc7413764fad53acbae59c133c27b06eb75f7a2
+      Entity.java bb0fcb89b13027c05f55e365242267aa5e4f4c3a
+      EntityReference.java b028609b6341586a14e7c816374f65918a3f2cb0
+      NamedNodeMap.java ba0712f5de21d48dbb12f4cc6dd15757c9285e63
+      Node.java d90a9222c37821fb508e51de6e7f0c692102e71d
+      NodeList.java db65c9aa9e6f77d79f8c806017129bc6075373c1
+      Notation.java 992ad137dec7a9111e7fcef5bc599263fca0b3c0
+      ProcessingInstruction.java 591048b812ee07d57a880b999bebf268cb71d6ab
+      Text.java e7d914e73f1af35bce9c77e7f5c3efc16197d189
+    xlattice
+     corexml
+      CoreXml.java 6eeef7e718d87b7ac3603a99529ac03f998ac5c0
+      CoreXmlException.java fbd83852ff6476efd508ba1ba5064f0fabdb61e6
+      CoreXmlTestCase.java e967963ee3324a23e4380ca41c8b2fd8ea930f4e
+      SimpleConfig.java 2f505b2bf5f3a8dc40c73046fb4b1ba11f8427b2
+      Version.java 41553a792ecf454381c1db194ee6925b5cd3e2e2
+      bind
+       AttrBag.java 8d1deaccd988df41fbc4de56e483f8f009355625
+       AttrBinding.java 7419249e89325a93d96b31236ec67d9b4fe3b60d
+       Bag.java 2e27c1d7021a0867ab9d757dfeaab4a9f3f9e975
+       Binding.java 671315dc32d37c02da321a1248e1b09727b6239d
+       Collector.java c89ebaa84f5256dd3ffa4c6009b5b7388d88c4a9
+       EmptyElBinding.java b0f46a8b721cf50f5ae01af869b91e75a1034845
+       Interface.java f013c98c7a701e01a28238743e81acbca39a5512
+       Join.java 5bd804fdaefbb19364fd6ce3beec69327a5e3c0b
+       Mapping.java 37547b91c1bd9a68158188f4e8d1ae2f39d86129
+       NameGenerator.java 893a58afd1e0e7f62f170ab9dba10e788abd1167
+       Ordering.java efa5ea078914c435cd066aedf79f9b4a8556f5de
+       Seq.java 1e0ac1def02da05f7aebb01cea553cc7bbbedd1a
+       SubElBinding.java d4d77a595b558920f763e5222eb023708f877aae
+       SubMapping.java f29aed37b0e08c806173f087247e8b57f560b1e1
+       TextBinding.java cd8e12ec01a1a43a4b47a81a83a68935a182c1e7
+       package.html a98cd17de70683f9dc22701467c9772447bd084d
+      expr
+       AxisName.java 613814b5b80e9a7b0e1bb1fea7b910ab783ce965
+       BinaryExpr.java 644d41a7f563ce7c5e49b533da6d3e003a01b751
+       Bool.java 042796be44abffcc18cc6d7e0f78b5ee5945618a
+       CharTypes.java 96b1f742d08348600ffcf8304436dbc37b789899
+       CoreExpr.java cd1248d0424f7e844bca4eb697f1a5ae56eca099
+       Expr.java 4d53eb8493e86f2ecc1c28c489676b85557e0c47
+       ExprParser.java 230c3fe53509412513a475a4f1bb374b53cdea6d
+       FixedNameToken.java 8b7902d7011701da7e237b4b6d753b35a7cf50fd
+       FunctionName.java dd2c92aa4c568e7ce989742a8367947146d7f658
+       Literal.java e77b57170092c60cb364ec5ac81749bdc36aa3e2
+       LocationPath.java 402c0fa6a474077199ab99588c850c9f80ad99e1
+       NCName.java f6e087e46779a76963f6fc5e0de74f14409b747f
+       NodeSet.java b061f7b16936ac01a6338fd429f8aea28ea1ffd4
+       NodeTest.java 02c89086083207cff482eb01c2d871ab41d9d8c6
+       NodeType.java 37b9117f55cfbdaf9e13bb9cca74b046d5f09651
+       Numeric.java 06be6ce7dc705c9c406deb40cfc4013e1f5dc24c
+       Operator.java 34d7be8e19ca0106d1a6ead5afa00a764b749622
+       QName.java 8a55d17c221be36d12a86b20be1f7242fd8fe45e
+       SpaceFactory.java b9fb3dd1eba44033404111dd92b1beeac1c1a716
+       Step.java d40d915475a87dbdff69aa88b396b71f599aba30
+       Symbol.java 635cb7762a8594a18b127365ee83a9b1e720aae3
+       Token.java 23d3a7b193811c7eb7fe7133f85a8adceef0fd41
+       TokenFactory.java f5f7077c37684ee1fcc3361f828cc195dc5e82cc
+       Tokenizer.java 86f413e7b599a12d5dfe736221592dab61d3cd9c
+       UnaryExpr.java c55afb58a2c0ee50b5a0eb889f8dde9316036f4b
+       package.html 7f5e13690e42e497b6b6037a043f77237521bf4f
+      om
+       Attr.java 9b84e630ad02f3e33ed30da059f661f89e0a4994
+       AttrList.java 73199bf8269657293b5fe69220aa5f5cdc5b1250
+       Cdata.java bf179b91dc9879d64f46f1986a32ae1ca4ec871e
+       Comment.java 8d4961ff3d0bd8939db5dc6b31af41e30b94b3b7
+       Document.java 755c5337355e378a0951273ab96f92cc6698efea
+       DocumentType.java 055e287258319edc8ef911dc346d79a1921bfec8
+       Element.java f7bf55ab52bab4002db7fcc09d5bb0236e88960d
+       GraphCycleException.java bf64b1b1690d703c1b925de79b151891cd925a68
+       Holder.java 5b86106cf77497cc3d0937378a5c06bd9f49ec7e
+       Node.java 5a3a679b2ef8ab31734328e24522d4ec9302f173
+       NodeList.java d497a6d61767ac8e9deec6e962f97be6496b99fc
+       ProcessingInstruction.java 7a251b048202b6a51ce3665c3041395cd3ad48bf
+       Text.java d40979dae5197ed1ea3c063927a50d2d1ccd3780
+       Visitor.java 2dc2114ed4b08a529e2c9e274c635b6c637a2be9
+       XmlParser.java 7fa2b380de41a0e32532439014250af3339f9037
+      package.html 1b53119e9d3737c860bd8d70af18317f6cc18c3d
+  test
+   org
+    xlattice
+     corexml
+      TestSimpleConfig.java 6226f98ad270d306531afcd9d430b6249c892e2c
+      TestXmlPull.java c5dee18ffaf4cec31f2b7ca73899c72dbacf3d6b
+      bind
+       A.java abc7b6117b37e7a08f2860e968fbc3c8eb14fca7
+       D.java 1e446cf2c579b05a585a9c2a6fae30e3dae8e1a5
+       F.java 215c3ec354766ec5faaea72402d179ff5e1b5e0e
+       FList1.java a3620c04964b4d0d8825d80648d3b778d20d27dc
+       FList2.java d4732bdabc36f2414ba3cd9a47ba1e2f61c90e2c
+       Fs.java 0a982810338248fd6a088ef2283641b8f08791a7
+       Marker.java cba5addec5a9568e9209809a5b3c8f013bb93485
+       Test3LevelGen.java 7855ab2413806efa2a201880dc89fb0dc4ebbe0d
+       TestBinding.java b942bd5757ec890feafd19cf2c9b0a8d7b88685c
+       TestClassRefs.java 0b8f4dc60ef95c62556b8655d81e61b2e15da44a
+       TestCollector.java 99ef3af6c0e1e5f82716c0526e86e4cdf7f696c1
+       TestEnum2.java 84a7d8392fa0cf7bb95fdab4c411150ee4265b6a
+       TestEnumeration.java b6c542ad6cc65ed2cb3b9db4432a2c2955e08a61
+       TestInterface.java 6df20e12b6cbd9d7c9938b948f6f8c5defc6ca4e
+       TestNameGenerator.java d510bfff43ca2673af5a22fe4c58bdebde6e2cfc
+       TestSimpleMultiWay.java 335e327eed532aa7e4ad525586762b9293dc2172
+       TestSixteenFold.java ed32b1c3ada4a238944d864e72c370eefaa86a89
+       TestThreeLevelMapping.java 3fff12cb8be9ac073a5b3a53e6bab57ca0b99624
+       ThreeLevelData.java 5ef7e375214de40afe4916f2d5581d5278d90718
+       ThreeLevelMapping.java de2f27bbc01b4199e5e5effe3d0be5055f051590
+       V.java 74a4b0a137f4138d4118f960a2689a1f9020e3c0
+       W.java 002f4a1905fbf4849f437a8046fd7ba2aa9c2ce0
+       W1.java 67982800adcdd0aa38a72f5b8749c103dc569833
+       X.java a5c7b294c1c1d53f8d5f8313a5f8c63060642f54
+       Y.java 2ab4040e6a2f68c1819799405958f7d1c73fd775
+       Z.java ee74ca9e93fb0ee985cb86c080ff5d85a6097289
+      expr
+       TestCharTypes.java 54b587c041e4e34e997310458b014fbde94444d7
+       TestCoreXPathFunctions.java 2c99f8a533e15ed6dee84d91ae807d88ce55de52
+       TestExprEval.java 534083524c0c4e9d320c15568e2426a9adde7b77
+       TestExprParser.java 841dfc37d4d4188e82cf8418d2d76ec6b43b6521
+       TestExprToXml.java 6215c3e460b16587f526c99df2b7b1cf7eba24b2
+       TestFunctionName.java 7e458faafa2132c103d675d9d85eb940d94528f6
+       TestLocationPath.java b02ddcdd93449ecfab7c5000b3e055b38a6a513f
+       TestNodeSet.java 8e431720b5cd4546d305857f838e4b4d627e2ef0
+       TestSpaceFactory.java 3f0db45db5cf81956382664e50a23cea980164f3
+       TestTokenFactory.java 5f32824ff5390bdf3a23c5b634578bfa44f0f9df
+       TestTokenizer.java 50b2f52449f6a4d8bb689e235cb786d0904efdb3
+       TestVariables.java efe274c029adcc868093bcc4cd04594e99631f07
+      om
+       Talker.java f879bd837e950947531f9fb2d0935efb9ab1f289
+       TestAttr.java 6a6366df4a0e965394c0d8ab9c3173da6ca135e2
+       TestAttrList.java 982aa21db464fcfc57a64ee1ded425cbf7ecdb69
+       TestCdata.java 24fd817e075134d0e259897ed4755a7d2f26ed8f
+       TestComment.java e4b55f9f12d6f8c37a1386c4c8d3386ac6040d9c
+       TestDocument.java 3d30a88955eedeaf980192d310e978e2ff9d7c3f
+       TestElement.java 2cad85fed258bb649926d032560181047293db63
+       TestNodeList.java 68fa608fc290aeee16129314764fcf5db426c1d7
+       TestProcessingInstruction.java 8f1dffacf23df6c660d387c5f6cd59096dd3e714
+       TestText.java ebb306ba639406f3d70717ab3f5801a862b9bd42
+       TestVisitor.java a66c0ce006a38e2fe7fe1ec2f312cc7ac82d389a
+       TestXmlParser.java c644761bb6f90e72214f32f77fb64869957d4fec
+ styleit 5e7d9245febad2abd30eec059fe8474d3861e545
+ test.all f8f33d64add32b5a1cb4f650db6f4c561c68244f
+# END CONTENT #
+
+XKprs5szYix0qpHkugQBBy6sXqUwsYRpcOyl/uK0GT2qJuam52bRE+88WegQ1oi5BDbt6zf+1dxrqxEkjp7L1aUFg/NgzdsHAd2OHQ3rw6srm4e4VNBHAsTSit7RL7Igj2KqRzaVQnGxAuap2mvcs7uAm3SdyY0009QEKuASM9kNZZvDcLrU5Qr4PDrp3ZEh26mZPND4LLYbfjPccGcYJykNQRScnbF4r4fe/GR5vY8lKGMki/sZnohVHrU0nKNmJEoZ2lf/RgRFbJL7DlGnubpTv84VwTnmHiv3XMc2XwMovCkUyyNazIb+S2ECf+47IF9k0jfAFurXtQ60t888bg==
