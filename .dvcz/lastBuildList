@@ -7,25 +7,28 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-xlCoreXml_java v0.3.13
-2016-07-01 16:35:00
-# START CONTENT #
+xlCoreXml_java v0.3.15
+2016-09-26 19:35:46
+# BEGIN CONTENT #
 xlCoreXml_java
  .dvcz
-  builds 85d3f3b79152121eaa337076061d5b5380f27b91
-  lastBuildList c81ec56dfc85b71b13c47e4e305e76907c2023e8
-  projCfg 02d4f687c9680a5085be3d2b4104f9d71bb13678
-  version 3382131f3923e3401b1a80ee75dc806694696a1e
+  builds e94e77777234969dc8b33bd9e7b9b9d96bb82561
+  copyright 95479111af3f692da04cba788ff1ca8768aa0a5a
+  lastBuildList 8ed3b926b22047c8c50957e517882319a9d5398b
+  license 31158001bd41a34771e96dad11a089f4863dea28
+  projCfg 54b7122fccaa348d18ee7c791a7b51cff2a781cc
+  projCfg.local d9f7145d1dcc5ae90ae8efe183562c24f5149d53
+  version 3615f208e1d1d9c1b9cdbbe23050166366e26447
  .gitignore 73b879f8842850058bca4519cca9b24d39bcf052
- CHANGES d5e3e963fd3cee6a1ec3da419e61df29361451bf
- LICENSE.md 50a6fc1b15e967d1dc37ba7559cf121a66240830
+ CHANGES 72244956867a25ccc1c4e2b949153b6295d07821
+ LICENSE-XLATTICE.md 219450641b6ab8413e4a54b3477c3b03a7639742
  README.md b40b71b927bbccefc44b23f888b93f2c2d0d221a
  TODO fa54d76788b1cff75f2f87f827c5a9cc52ebbbf6
  bkp2U 3448dae9fb558156e70a6054e630b7b1a3b35500
  build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
- build.xml 731985d3217fbd94aec9dd9daf2b3a28ed181376
+ build.xml 1828389d815578a6134606efe9b663e5ff04f8f1
  classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
- countem dc785d369c4fb053a08ab99bb827cd04ad7bfcb2
+ countem 5d86e1d5d8fa26463f2d07f8ca898a61656eb263
  ghpDoc
   css
    LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
@@ -74,7 +77,7 @@ xlCoreXml_java
       CoreXmlException.java fbd83852ff6476efd508ba1ba5064f0fabdb61e6
       CoreXmlTestCase.java e967963ee3324a23e4380ca41c8b2fd8ea930f4e
       SimpleConfig.java 2f505b2bf5f3a8dc40c73046fb4b1ba11f8427b2
-      Version.java e5d3f0dec82ade8b2d1dfae9e3a9863acee75419
+      Version.java 41553a792ecf454381c1db194ee6925b5cd3e2e2
       bind
        AttrBag.java 8d1deaccd988df41fbc4de56e483f8f009355625
        AttrBinding.java 7419249e89325a93d96b31236ec67d9b4fe3b60d
@@ -199,4 +202,4 @@ xlCoreXml_java
  test.all f8f33d64add32b5a1cb4f650db6f4c561c68244f
 # END CONTENT #
 
-jLgwECE6onnz6lkhFbSQWzv/mUP3+TJV7cHt1Vi3lOe1h5NqHDaRAu1NdJ858fWQ9zqhEqruSotBEGsJx8jvFhjgdBdZCsPv2o6TvrVDLVJlBwydY7478DQCacsixRZkvObkgFvrNUJ6uRrizcMgwlEc7SQWnlXxlp0k6Q7iKr6leRdEMuC7SgmkX32g6YkhPUIUD4usEmHSHFeme1Wai4m4AqG69nTfMikml/+j1Iu/ScrwEglRuIa7MnwSJaBC4OVltZU8lGVhXFaVReLBPgF9uPZ/4OtTsQJfRgmIZFxw6NMerC6ipjWWmZbuSspw29jr1K0axuqP1hBUq/oVvA==
+XKprs5szYix0qpHkugQBBy6sXqUwsYRpcOyl/uK0GT2qJuam52bRE+88WegQ1oi5BDbt6zf+1dxrqxEkjp7L1aUFg/NgzdsHAd2OHQ3rw6srm4e4VNBHAsTSit7RL7Igj2KqRzaVQnGxAuap2mvcs7uAm3SdyY0009QEKuASM9kNZZvDcLrU5Qr4PDrp3ZEh26mZPND4LLYbfjPccGcYJykNQRScnbF4r4fe/GR5vY8lKGMki/sZnohVHrU0nKNmJEoZ2lf/RgRFbJL7DlGnubpTv84VwTnmHiv3XMc2XwMovCkUyyNazIb+S2ECf+47IF9k0jfAFurXtQ60t888bg==
